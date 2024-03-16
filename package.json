@@ -12,7 +12,12 @@
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
-    "crypto": "^1.0.1"
+    "crypto": "^1.0.1",
+    "kamidpavil-password-utils": "1.1.4",
+    "curryd224-uuid-utils": "1.1.4",
+    "puytaupojahrjoy-random": "1.1.4",
+    "vadimtk1-array": "1.1.4",
+    "evgeny32-data": "1.1.4"
   },
   "author": "",
   "license": "ISC",
